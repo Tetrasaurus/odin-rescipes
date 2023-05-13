@@ -9,3 +9,5 @@ The goal of the project is to create a "recipe" html webpage with links to separ
 I have to admit I have done a few other course and could say was fairly confident on the topics learnt through the follow along code video courses and was able to build half decent webpages but I now realised I had such a small level of understanding and based all my ideas off the content I "followed along"
 
 I am excited to start building from a better core understanding, challenging myself - even though its a simple first project:]
+
+Its been a year since I have done any html/css and I remember vaguely How to do it all but covering the topics and refreshing this way has been such a better choice!
